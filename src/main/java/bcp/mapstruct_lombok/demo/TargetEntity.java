@@ -4,6 +4,7 @@ public class TargetEntity {
 
 	private Long longVar;
 
+//test
 	public Long getLongVar() {
 		return longVar;
 	}
